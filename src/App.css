@@ -1,0 +1,10 @@
+.mapDiv {
+    padding: 5px;
+    margin: 0;
+    height: 400px;
+    width: auto;
+}
+
+.esri-layer-list {
+  border: solid 2.5px rgb(241, 3, 237)
+}
